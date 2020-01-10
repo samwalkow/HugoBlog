@@ -1,7 +1,7 @@
 baseURL = "http://samwalkow.github.io"
 languageCode = "en-us"
 title = "Sam Walkow Website"
-theme = "swift"
+theme = "erblog"
 copyright = ""
 publishdir = "samwalkow/github.io"
 

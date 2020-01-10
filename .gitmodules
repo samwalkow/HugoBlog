@@ -4,3 +4,6 @@
 [submodule "PersonalSite/themes/swift"]
 	path = PersonalSite/themes/swift
 	url = https://github.com/onweru/hugo-swift-theme.git
+[submodule "PersonalSite/themes/erblog"]
+	path = PersonalSite/themes/erblog
+	url = https://github.com/ertuil/erblog.git
