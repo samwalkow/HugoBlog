@@ -8,6 +8,11 @@ publishdir = "samwalkow/github.io"
 [Author]
 name = "Sam Walkow"
 
+[Taxonomies]
+tag = "tags"
+series = "series"
+series-desc = "series-desc"
+
 [Permalinks]
 blog = "/:year/:month/:filename/"
 code = "/:filename/"
