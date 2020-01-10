@@ -1,3 +1,6 @@
 [submodule "samwalkow.github.io"]
 	path = samwalkow.github.io
 	url = https://github.com/samwalkow/samwalkow.github.io
+[submodule "PersonalSite/themes/swift"]
+	path = PersonalSite/themes/swift
+	url = https://github.com/onweru/hugo-swift-theme.git
