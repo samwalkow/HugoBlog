@@ -1,0 +1,18 @@
+baseURL = "http://samwalkow.github.io"
+languageCode = "en-us"
+title = "Sam Walkow Website"
+theme = "minimal"
+copyright = ""
+publishdir = "samwalkow/github.io"
+
+[Author]
+name = "Sam Walkow"
+
+[Permalinks]
+blog = "/:year/:month/:filename/"
+code = "/:filename/"
+
+[params]
+description = "Site description"
+twitter = "https://twitter.com/samwalkow"
+github = "https://github.com/samwalkow"
