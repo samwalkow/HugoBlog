@@ -12,7 +12,6 @@ name = "Sam Walkow"
 themeColor = "theme-base-0d"
 description = "PhD Student in Informatics at the University of Illinois at Urbana-Champaign"
 mainSections = "About Me"
-# avatarurl = "images/swalkow.jpg"
 
 [Menu]
 [[menu.main]]

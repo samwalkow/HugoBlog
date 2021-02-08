@@ -6,7 +6,7 @@
     <description>Recent content on Sam Walkow</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Jan 2021 09:59:15 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 31 Jan 2021 15:52:37 -0500</lastBuildDate>
     
 	<atom:link href="http://samwalkow.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,8 +17,42 @@
       <pubDate>Thu, 09 Jan 2020 18:31:57 -0600</pubDate>
       
       <guid>http://samwalkow.github.io/aboutme/</guid>
-      <description>I am a PhD student in Informatics at the University of Illinois at Urbana-Champaign. I work with Dr. Matthew Turk in the Data Exploration Lab where we pursue research on open source scientific software development, data visualization and analytics, and software in education.
-Research Interests I am interested in understanding how users think about data, and how that internal representation of data changes as it is combined with scientific software to address research questions.</description>
+      <description>. I am a PhD student in Informatics at the University of Illinois at Urbana-Champaign. I work with Dr. Matthew Turk in the Data Exploration Lab where we pursue research on open source scientific software development, data visualization and analytics, and software in education.
+I am interested in understanding how users think about data, and how that internal representation of data changes as it is combined with scientific software to address research questions.</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>http://samwalkow.github.io/cv/</link>
+      <pubDate>Sun, 31 Jan 2021 15:52:37 -0500</pubDate>
+      
+      <guid>http://samwalkow.github.io/cv/</guid>
+      <description>  . </description>
+    </item>
+    
+    <item>
+      <title>Talks and Posters</title>
+      <link>http://samwalkow.github.io/talks/</link>
+      <pubDate>Mon, 25 Jan 2021 17:41:14 -0500</pubDate>
+      
+      <guid>http://samwalkow.github.io/talks/</guid>
+      <description>Talks Querying Data in yt - Domain Stories and Workflows Presented on December 11, 2020 at the 2020 RHytHM Event
+I talk about the domain stories in depth with a focus on yt applications at the RHytHM: ResearcH using yt Highlights Meeting.
+Check out the Slides.
+Building a Sustainable Domain Knowledge Framework for Natural Science Software Tools Presented on April 1st, 2020 at the 2020 What is Information Conference
+I presented on the findings from three domain stories of users implementing yt for astrophysics analysis at the What is Information conference online.</description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>http://samwalkow.github.io/blog/</link>
+      <pubDate>Mon, 25 Jan 2021 17:16:48 -0500</pubDate>
+      
+      <guid>http://samwalkow.github.io/blog/</guid>
+      <description>I write about computer programing, learning how to code, and how people think about software.
+  I re-mixed this project on Glitch, and worked on a small app to analyze some survey data about programming:
+ https://www.hastac.org/blogs/samwalkow/2019/12/16/who-asks-computer-programming-questions-online    Lately I&#39;ve been reading a lot about learning how to program and tools like Blocky, and wrote about my experience with those tools:
+ https://www.hastac.org/blogs/samwalkow/2019/09/23/building-blocks-computer-programming-literally    I had an amazing time at my first HASTAC conference!</description>
     </item>
     
     <item>
@@ -27,9 +61,11 @@ Research Interests I am interested in understanding how users think about data, 
       <pubDate>Thu, 14 Jan 2021 09:59:15 -0500</pubDate>
       
       <guid>http://samwalkow.github.io/projects/</guid>
-      <description>Domain Stories - Astronomy January 2019 - In Progress
-This project is part of a larger effort to understand users mental model of data, and how that is applied when using scientific software to answer research questions. This understanding is an initial step to expanding domain specific software (in this case, yt) beyond computational astrophysics.
-Understanding user&#39;s thought process and software interaction will start with their description and narrative of how they conduct analysis, step by step.</description>
+      <description>Ideology, Psychology, and Technology in Education January 2021 - In Progress
+Starting in spring 2021, I will be investigating how ideology and psychology theory come together through EdTech and influence education users.
+More information to come!
+ Domain Stories - Astronomy and Beyond January 2019 - In Progress
+This project is part of a larger effort to understand users mental model of data, and how that is applied when using scientific software to answer research questions.</description>
     </item>
     
   </channel>
