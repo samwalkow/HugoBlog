@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sam Walkow</title>
+    <link>http://samwalkow.github.io/</link>
+    <description>Recent content on Sam Walkow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Jan 2021 09:59:15 -0500</lastBuildDate>
+    
+	<atom:link href="http://samwalkow.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>http://samwalkow.github.io/aboutme/</link>
+      <pubDate>Thu, 09 Jan 2020 18:31:57 -0600</pubDate>
+      
+      <guid>http://samwalkow.github.io/aboutme/</guid>
+      <description>I am a PhD student in Informatics at the University of Illinois at Urbana-Champaign. I work with Dr. Matthew Turk in the Data Exploration Lab where we pursue research on open source scientific software development, data visualization and analytics, and software in education.
+Research Interests I am interested in understanding how users think about data, and how that internal representation of data changes as it is combined with scientific software to address research questions.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://samwalkow.github.io/projects/</link>
+      <pubDate>Thu, 14 Jan 2021 09:59:15 -0500</pubDate>
+      
+      <guid>http://samwalkow.github.io/projects/</guid>
+      <description>Domain Stories - Astronomy January 2019 - In Progress
+This project is part of a larger effort to understand users mental model of data, and how that is applied when using scientific software to answer research questions. This understanding is an initial step to expanding domain specific software (in this case, yt) beyond computational astrophysics.
+Understanding user&#39;s thought process and software interaction will start with their description and narrative of how they conduct analysis, step by step.</description>
+    </item>
+    
+  </channel>
+</rss>

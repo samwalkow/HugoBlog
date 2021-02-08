@@ -1,12 +1,44 @@
 baseURL = "http://samwalkow.github.io"
 languageCode = "en-us"
-title = "Sam Walkow Website"
-theme = "swift"
+title = "Sam Walkow"
+theme = "hyde-hyde"
 copyright = ""
 publishdir = "samwalkow/github.io"
 
 [Author]
 name = "Sam Walkow"
+
+[params]
+themeColor = "theme-base-0d"
+description = "PhD Student in Informatics at the University of Illinois at Urbana-Champaign"
+mainSections = "About Me"
+# avatarurl = "images/swalkow.jpg"
+
+[Menu]
+[[menu.main]]
+  name = "About Me"
+  identifier = "About Me"
+  weight = 5
+  url = "/aboutme/"
+[[menu.main]]
+  name = "Projects"
+  identifier = "Projects"
+  weight = 10
+  url = "/projects/"
+[[menu.main]]
+  name = "Talks and Posters"
+  identifier = "Talks"
+  weight = 15
+  url = "/Talks/"
+[[menu.main]]
+  name = "Blog"
+  identifier = "Blog"
+  weight = 20
+  url = "/blog/"
+[[menu.main]]
+  name = "CV"
+  url = "/cv/"
+  weight = 25
 
 [Taxonomies]
 tag = "tags"
@@ -17,7 +49,9 @@ series-desc = "series-desc"
 blog = "/:year/:month/:filename/"
 code = "/:filename/"
 
-[params]
-description = "Site description"
-twitter = "https://twitter.com/samwalkow"
-github = "https://github.com/samwalkow"
+[params.social]
+twitter = "/SamWalkow"
+LinkedIn = "/samwalkow"
+github = "samwalkow"
+orcid = "0000-0001-7329-1863"
+email = "swalkow2@illinois.edu"
