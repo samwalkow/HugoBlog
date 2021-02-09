@@ -7,3 +7,7 @@
 [submodule "PersonalSite/themes/erblog"]
 	path = PersonalSite/themes/erblog
 	url = https://github.com/ertuil/erblog.git
+[submodule "public"]
+	path = public
+	url = https://github.com/samwalkow/samwalkow.github.io.git
+	branch = master
