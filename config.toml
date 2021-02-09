@@ -1,4 +1,4 @@
-baseURL = "http://samwalkow.github.io"
+baseURL = "https://samwalkow.github.io"
 languageCode = "en-us"
 title = "Sam Walkow"
 theme = "hyde-hyde"
